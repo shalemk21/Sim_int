@@ -6,3 +6,4 @@ t = float(sys.argv[3])
 
 interest = (p * r * t) / 100
 print("Simple interest: ", interest)
+print(sys.argv[0])
